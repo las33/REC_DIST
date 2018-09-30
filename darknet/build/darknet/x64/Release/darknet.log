@@ -1,0 +1,68 @@
+﻿  image.c
+C:\opencv_3.0\opencv\build\include\opencv2/core/types_c.h(929): warning C4013: 'cvRound' undefined; assuming extern returning int
+..\..\src\image.c(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(90): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(158): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\src\image.c(159): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\src\image.c(160): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\src\image.c(161): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\src\image.c(205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(237): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(202): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(223): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(224): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(225): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(226): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(257): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(253): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(263): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(264): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(265): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(266): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(298): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(335): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+..\..\src\image.c(350): warning C4244: 'function': conversion from 'const float' to 'int', possible loss of data
+..\..\src\image.c(295): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(316): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(317): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(318): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(319): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(416): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(637): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(786): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(802): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(803): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(808): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(809): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(821): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(822): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(827): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(828): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(874): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(1027): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\src\image.c(1030): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(1032): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(1033): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(1083): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image.c(1107): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\src\image.c(1138): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\..\src\image.c(1154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\src\image.c(1343): warning C4305: 'function': truncation from 'double' to 'float'
+..\..\src\image.c(1344): warning C4305: 'function': truncation from 'double' to 'float'
+..\..\src\image.c(1345): warning C4305: 'function': truncation from 'double' to 'float'
+..\..\src\image.c(1346): warning C4305: 'function': truncation from 'double' to 'float'
+..\..\src\image.c(1362): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\..\src\image.c(1363): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\..\src\image.c(1364): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\..\src\image.c(1398): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+x64\Release\server.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+c:\users\leonardo\documents\git_repositories\yolov2_slam_orb2\darknet\src\image.c(282): warning C4172: returning address of local variable or temporary: res
+  153 of 676 functions (22.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    62 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  darknet.vcxproj -> C:\Users\Leonardo\Documents\Git_Repositories\YOLOv2_SLAM_ORB2\darknet\build\darknet\x64\darknet.exe
+  darknet.vcxproj -> C:\Users\Leonardo\Documents\Git_Repositories\YOLOv2_SLAM_ORB2\darknet\build\darknet\x64\darknet.pdb (Full PDB)
